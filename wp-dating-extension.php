@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP Dating Extension
  * Description: A simple plugin to test Git workflow.
- * Version: 1.2
+ * Version: 1.3
  * Author: Glenn Escrimadora
  * GitHub Plugin URI: https://github.com/NnelgG/wp-dating-extension
  * Primary Branch: main 
@@ -20,5 +20,5 @@ add_action('admin_menu', 'wp_dating_extension_add_menu');
 
 // Create settings page
 function wp_dating_extension_settings_page() {
-  echo '<div class="wrap"><h1>Hello world 2</h1></div>';
+  echo '<div class="wrap"><h1>Hello world 3</h1></div>';
 }
