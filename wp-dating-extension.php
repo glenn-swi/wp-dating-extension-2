@@ -13,10 +13,10 @@ if (!defined('ABSPATH')) {
 }
 
 // Add the plugin settings menu
-function wp_dating_extension_add_menu() {
+function wp_dating_extension_add_menu_2() {
   add_menu_page('WP Dating Extension 2', 'WP Dating Extension 2', 'manage_options', 'wp-dating-extension-2', 'wp_dating_extension_settings_page_2');
 }
-add_action('admin_menu', 'wp_dating_extension_add_menu');
+add_action('admin_menu', 'wp_dating_extension_add_menu_2');
 
 // Create settings page
 function wp_dating_extension_settings_page() {
