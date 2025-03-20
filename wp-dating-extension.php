@@ -19,6 +19,6 @@ function wp_dating_extension_add_menu_2() {
 add_action('admin_menu', 'wp_dating_extension_add_menu_2');
 
 // Create settings page
-function wp_dating_extension_settings_page() {
+function wp_dating_extension_settings_page_2() {
   echo '<div class="wrap"><h1>Hello world 1</h1></div>';
 }
