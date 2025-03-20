@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP Dating Extension 2
  * Description: A simple plugin to test Git workflow.
- * Version: 1.0
+ * Version: 1.2
  * Author: Glenn Escrimadora
  * GitHub Plugin URI: https://github.com/glenn-swi/wp-dating-extension-2/
  * Primary Branch: main 
